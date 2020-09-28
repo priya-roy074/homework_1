@@ -7,7 +7,7 @@
  
 Venmo, LLC ("Venmo") is a US based peer-to-peer payment service alike a digital wallet service. Venmo is presently owned by PayPal.
  
-*When was the company incorporated? 
+* When was the company incorporated? 
  
 Founded in 2009.
  
