@@ -1,5 +1,5 @@
 # Links to sources used: 
-	1.[Wikipedia - Venmo] (https://en.wikipedia.org/wiki/Venmo)
+	1.[Wikipedia - Venmo](https://en.wikipedia.org/wiki/Venmo)
 	2.[Business Insider - Venmo] (https://www.businessinsider.com/venmo-origin-story-facts-andrew-kortina-2014-6)
 	3.[Kortana - Founder's essay] (https://kortina.nyc/essays/origins-of-venmo/)
 	4.[Techcrunch - Venmo Acquisition] (https://techcrunch.com/2010/09/16/venmo-1-2-million-iphone/)
