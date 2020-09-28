@@ -1,8 +1,8 @@
-#Venmo: The Journey To A Verb.
+# Venmo: The Journey To A Verb.
  
  ![](images/Venmo-4.png)
 
-##Overview and Origin
+## Overview and Origin
 * Name of company: 
  
 Venmo, LLC ("Venmo") is a US based peer-to-peer payment service alike a digital wallet service. Venmo is presently owned by PayPal.
